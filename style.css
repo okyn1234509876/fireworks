@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+    background-color: rgb(13, 201, 205);
+    border-radius: 99px;
+    border: 9px solid rgb(72, 0, 255);
+    padding: 12px;
+}
+
+h1{
+    background-color: gold;
+    border-radius: 9px;
+    border: 9px solid rgb(255, 153, 0);
+    padding: 12px;
+}
+
+footer{
+    background-color: rgb(128, 215, 5);
+    padding: 10px;
+}
+
+footer p{
+    background-color: rgb(255, 255, 255);
+}
+
+.okun{
+    border: 10px solid rgb(134, 209, 4);
+    padding: 10px;
+    border-radius: 40px;
+}
+
+.okun2{
+    border: 10px solid rgb(209, 158, 4);
+    padding: 15px;
+    border-radius: 20px;
+}
